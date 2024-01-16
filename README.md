@@ -1,4 +1,4 @@
 # odin-recipes
 
-This is a basic recipe website
-To practice what I learnt today (Basics of HTML)
+## Description
+This is a basic recipe website I created to practice the fundamentals  of HTML.
