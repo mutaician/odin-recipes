@@ -1,0 +1,26 @@
+body {
+    background-color:thistle;
+}
+
+h1 {
+    color:crimson;
+    text-align:center;
+    font-size: 60px;
+}
+
+.meal {
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+}
+
+h3 {
+    color:darkred;
+}
+
+.ingredients {
+    color:rgb(226, 23, 90);
+    font-size: 20px;
+}
